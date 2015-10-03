@@ -7,6 +7,7 @@ body{
 .header {
   background-image: url("../images/header_bg.jpg");
   background-position: center;
+  background-repeat: repeat-x;
   width: auto;
   margin: auto;
   height: 350px;
@@ -32,6 +33,7 @@ body{
   font-weight: 700;
   font-size: 14px;
   border-radius: 5px;
+  border-width: 0;
 }
 .benefits{
   background-color: #f0efef;
@@ -80,6 +82,7 @@ body{
   font-weight: 700;
   font-size: 14px;
   border-radius: 5px;
+  border-width: 0;
 }
 footer{
   background-color: #121212;
